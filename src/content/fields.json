@@ -245,21 +245,21 @@
     "group": "VideoSection"
   },
   {
-    "key": "Sleep n DreamSocials.SOCIAL_ITEMS",
+    "key": "SleepNDreamSocials.SOCIAL_ITEMS",
     "label": "Kartu Instagram",
-    "group": "Sleep n DreamSocials",
+    "group": "SleepNDreamSocials",
     "kind": "structured",
     "minItems": 0
   },
   {
-    "key": "Sleep n DreamSocials.text1",
+    "key": "SleepNDreamSocials.text1",
     "label": "Inspiration for Better Sleeps.",
-    "group": "Sleep n DreamSocials"
+    "group": "SleepNDreamSocials"
   },
   {
-    "key": "Sleep n DreamSocials.text2",
+    "key": "SleepNDreamSocials.text2",
     "label": "Discover bedding, styling, and sleep insights on our Instagram, @dreamli",
-    "group": "Sleep n DreamSocials"
+    "group": "SleepNDreamSocials"
   },
   {
     "key": "Navbar.PAGE_ROUTES",

@@ -236,7 +236,7 @@
   "VideoSection.text3": "Stories on comfort, thoughtful design, and the art of better rest.",
   "VideoSection.href4": "/journal",
   "VideoSection.text5": "Explore Articles",
-  "Sleep n DreamSocials.SOCIAL_ITEMS": [
+  "SleepNDreamSocials.SOCIAL_ITEMS": [
     {
       "id": 1,
       "src": "/instagram/ig1.jpg",
@@ -302,8 +302,8 @@
       "href": "https://www.instagram.com/sleepndream.bed/"
     }
   ],
-  "Sleep n DreamSocials.text1": "Inspiration for Better Sleeps.",
-  "Sleep n DreamSocials.text2": "Discover bedding, styling, and sleep insights on our Instagram, @sleepndream.bed",
+  "SleepNDreamSocials.text1": "Inspiration for Better Sleeps.",
+  "SleepNDreamSocials.text2": "Discover bedding, styling, and sleep insights on our Instagram, @sleepndream.bed",
   "Navbar.PAGE_ROUTES": {
     "HOME": "/",
     "ABOUT US": "/about",
@@ -1279,7 +1279,7 @@
       "visible": true
     },
     {
-      "id": "Sleep n DreamSocials",
+      "id": "SleepNDreamSocials",
       "visible": true
     }
   ],

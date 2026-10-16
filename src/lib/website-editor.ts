@@ -9,7 +9,7 @@ export const sectionHelp: Record<string, string> = {
   StoreGallery: 'Atur video Dr. Spine, foto toko, alamat, dan tautan Google Maps.',
   NewsletterBenefits: 'Jelaskan keunggulan layanan Sleep n Dream kepada pengunjung.',
   VideoSection: 'Kelola kartu informasi Dr. Spine dan tautan artikelnya.',
-  Sleep n DreamSocials: 'Ganti gambar dan tautan kartu Instagram di beranda.',
+  SleepNDreamSocials: 'Ganti gambar dan tautan kartu Instagram di beranda.',
   AboutUs: 'Edit gambar pembuka dan cerita pada halaman Tentang Sleep n Dream.',
   Navbar: 'Atur logo, pengumuman, dan menu di bagian atas website.',
   Footer: 'Atur kontak, jam layanan, dan tautan di bagian paling bawah website.',
@@ -26,7 +26,7 @@ const names: Record<string, string[]> = {
   StoreGallery: ['Gambar sampul video','Teks kecil di atas judul','Judul — baris 1','Judul — baris 2','Deskripsi Dr. Spine','Tujuan tombol Dr. Spine','Teks tombol Dr. Spine','Teks kecil galeri','Judul galeri','Teks tombol galeri'],
   NewsletterBenefits: ['Teks kecil di atas judul','Judul bagian'],
   VideoSection: ['Teks kecil di atas judul','Judul bagian','Deskripsi bagian','Tujuan tombol','Teks tombol'],
-  Sleep n DreamSocials: ['Judul bagian','Deskripsi bagian'],
+  SleepNDreamSocials: ['Judul bagian','Deskripsi bagian'],
   AboutUs: ['Gambar pembuka','Teks kecil pembuka','Judul — bagian 1','Judul — bagian 2','Judul — bagian 3','Judul filosofi','Pernyataan — bagian 1','Pernyataan — bagian 2','Pernyataan — bagian 3','Tujuan tombol','Teks tombol'],
   ProductCatalog: ['Gambar pembuka katalog','Teks kecil pembuka','Judul — bagian 1','Judul — bagian 2','Judul — bagian 3','Label jumlah hasil','Label urutan produk','Pilihan urutan unggulan','Pilihan urutan harga','Teks koleksi lainnya','Label jumlah tampil','Penghubung jumlah produk','Label produk'],
 };

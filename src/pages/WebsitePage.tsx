@@ -8,7 +8,7 @@ import { websiteApi, type Content, type Field } from '../lib/website';
 const GROUPS: Record<string, string> = {
   Home: 'Susunan beranda & banner', Hero: 'Pembuka website', OurSignature: 'Signature Collection',
   FeaturedCategory: 'Best Sellers', AccessoriesCarousel: 'Accessories', StoreGallery: 'Galeri & toko',
-  NewsletterBenefits: 'Why Sleep n Dream', VideoSection: 'Dr. Spine', Sleep n DreamSocials: 'Instagram',
+  NewsletterBenefits: 'Why Sleep n Dream', VideoSection: 'Dr. Spine', SleepNDreamSocials: 'Instagram',
   AboutUs: 'About Sleep n Dream', Navbar: 'Navigasi & menu', Footer: 'Bagian bawah website', SocialFloat: 'Tombol WhatsApp',
   ProductCatalog: 'Halaman katalog', Site: 'SEO website',
 };
