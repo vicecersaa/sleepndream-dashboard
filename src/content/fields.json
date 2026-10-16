@@ -1,0 +1,826 @@
+[
+  {
+    "key": "Hero.src1",
+    "label": "src · /video/hero-main-new.mp4",
+    "group": "Hero",
+    "kind": "src"
+  },
+  {
+    "key": "Hero.text2",
+    "label": "CRAFTED FOR DEEP REST",
+    "group": "Hero"
+  },
+  {
+    "key": "Hero.text3",
+    "label": "Nature's",
+    "group": "Hero"
+  },
+  {
+    "key": "Hero.text4",
+    "label": "Gift",
+    "group": "Hero"
+  },
+  {
+    "key": "Hero.text5",
+    "label": "to",
+    "group": "Hero"
+  },
+  {
+    "key": "Hero.text6",
+    "label": "Comfort",
+    "group": "Hero"
+  },
+  {
+    "key": "Hero.text7",
+    "label": "Crafted from nature, perfected by 28 years of artistry",
+    "group": "Hero"
+  },
+  {
+    "key": "Hero.text8",
+    "label": "EXPLORE MORE",
+    "group": "Hero"
+  },
+  {
+    "key": "OurSignature.SIGNATURE_ITEMS",
+    "label": "Kartu koleksi",
+    "group": "OurSignature",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "OurSignature.text1",
+    "label": "Our Signature Collection",
+    "group": "OurSignature"
+  },
+  {
+    "key": "OurSignature.text2",
+    "label": "Crafted for deeper comfort, effortless rest, and timeless sleep.",
+    "group": "OurSignature"
+  },
+  {
+    "key": "OurSignature.href3",
+    "label": "href · /collection",
+    "group": "OurSignature",
+    "kind": "href"
+  },
+  {
+    "key": "OurSignature.text4",
+    "label": "Explore Collection",
+    "group": "OurSignature"
+  },
+  {
+    "key": "OurSignature.href5",
+    "label": "href · /collection",
+    "group": "OurSignature",
+    "kind": "href"
+  },
+  {
+    "key": "FeaturedCategory.text1",
+    "label": "Best Sellers",
+    "group": "FeaturedCategory"
+  },
+  {
+    "key": "FeaturedCategory.text2",
+    "label": "Our most-loved mattresses, made for better sleep.",
+    "group": "FeaturedCategory"
+  },
+  {
+    "key": "FeaturedCategory.href3",
+    "label": "href · /collection",
+    "group": "FeaturedCategory",
+    "kind": "href"
+  },
+  {
+    "key": "FeaturedCategory.text4",
+    "label": "Shop Best Seller",
+    "group": "FeaturedCategory"
+  },
+  {
+    "key": "AccessoriesCarousel.ACCESSORIES",
+    "label": "Daftar accessories",
+    "group": "AccessoriesCarousel",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "AccessoriesCarousel.text1",
+    "label": "Accessories",
+    "group": "AccessoriesCarousel"
+  },
+  {
+    "key": "AccessoriesCarousel.text2",
+    "label": "Thoughtful pillows, bolsters, and layers for a softer night's rest.",
+    "group": "AccessoriesCarousel"
+  },
+  {
+    "key": "AccessoriesCarousel.href3",
+    "label": "href · #accessories-products",
+    "group": "AccessoriesCarousel",
+    "kind": "href"
+  },
+  {
+    "key": "AccessoriesCarousel.text4",
+    "label": "Shop Collection",
+    "group": "AccessoriesCarousel"
+  },
+  {
+    "key": "AccessoriesCarousel.text5",
+    "label": "Discover",
+    "group": "AccessoriesCarousel"
+  },
+  {
+    "key": "StoreGallery.DR_SPINE_VIDEO",
+    "label": "Video Dr. Spine",
+    "group": "StoreGallery",
+    "kind": "structured",
+    "minItems": 1
+  },
+  {
+    "key": "StoreGallery.STORES",
+    "label": "Daftar galeri & lokasi",
+    "group": "StoreGallery",
+    "kind": "structured",
+    "minItems": 1
+  },
+  {
+    "key": "StoreGallery.poster1",
+    "label": "poster · /category/DrSpine-new.png",
+    "group": "StoreGallery",
+    "kind": "poster"
+  },
+  {
+    "key": "StoreGallery.text2",
+    "label": "SLEEP N DREAM / DR.SPINE",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "StoreGallery.text3",
+    "label": "Support That",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "StoreGallery.text4",
+    "label": "Moves With You",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "StoreGallery.text5",
+    "label": "Thoughtfully engineered for balanced support and lasting comfort. Discov",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "StoreGallery.href6",
+    "label": "href · /collection",
+    "group": "StoreGallery",
+    "kind": "href"
+  },
+  {
+    "key": "StoreGallery.text7",
+    "label": "Explore Dr.Spine",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "StoreGallery.text8",
+    "label": "VISIT SLEEP N DREAM",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "StoreGallery.text9",
+    "label": "Sleep n Dream Gallery",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "StoreGallery.text10",
+    "label": "View Gallery",
+    "group": "StoreGallery"
+  },
+  {
+    "key": "NewsletterBenefits.BENEFITS",
+    "label": "Layanan & keunggulan",
+    "group": "NewsletterBenefits",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "NewsletterBenefits.text1",
+    "label": "The Sleep n Dream Difference",
+    "group": "NewsletterBenefits"
+  },
+  {
+    "key": "NewsletterBenefits.text2",
+    "label": "Why Sleep n Dream?",
+    "group": "NewsletterBenefits"
+  },
+  {
+    "key": "VideoSection.SERVICES",
+    "label": "Kartu Dr. Spine",
+    "group": "VideoSection",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "VideoSection.text1",
+    "label": "Discover More",
+    "group": "VideoSection"
+  },
+  {
+    "key": "VideoSection.text2",
+    "label": "Sleep n Dream Article",
+    "group": "VideoSection"
+  },
+  {
+    "key": "VideoSection.text3",
+    "label": "Stories on comfort, thoughtful design, and the art of better rest.",
+    "group": "VideoSection"
+  },
+  {
+    "key": "VideoSection.href4",
+    "label": "href · /journal",
+    "group": "VideoSection",
+    "kind": "href"
+  },
+  {
+    "key": "VideoSection.text5",
+    "label": "Explore Articles",
+    "group": "VideoSection"
+  },
+  {
+    "key": "Sleep n DreamSocials.SOCIAL_ITEMS",
+    "label": "Kartu Instagram",
+    "group": "Sleep n DreamSocials",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "Sleep n DreamSocials.text1",
+    "label": "Inspiration for Better Sleeps.",
+    "group": "Sleep n DreamSocials"
+  },
+  {
+    "key": "Sleep n DreamSocials.text2",
+    "label": "Discover bedding, styling, and sleep insights on our Instagram, @dreamli",
+    "group": "Sleep n DreamSocials"
+  },
+  {
+    "key": "Navbar.PAGE_ROUTES",
+    "label": "Tautan halaman utama",
+    "group": "Navbar",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "Navbar.MEGA_MENU_DATA",
+    "label": "Menu kategori: judul, tautan & gambar",
+    "group": "Navbar",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "Navbar.text1",
+    "label": "PAGES",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.href2",
+    "label": "href · /",
+    "group": "Navbar",
+    "kind": "href"
+  },
+  {
+    "key": "Navbar.text3",
+    "label": "HOME",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.href4",
+    "label": "href · /about",
+    "group": "Navbar",
+    "kind": "href"
+  },
+  {
+    "key": "Navbar.text5",
+    "label": "ABOUT US",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.href6",
+    "label": "href · /collection",
+    "group": "Navbar",
+    "kind": "href"
+  },
+  {
+    "key": "Navbar.text7",
+    "label": "COLLECTION",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text8",
+    "label": "SHOP",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text9",
+    "label": "Back",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text11",
+    "label": "Account",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text12",
+    "label": "Search",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text13",
+    "label": "Discover Sleep n Dream comfort",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text14",
+    "label": "Complimentary Delivery",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text15",
+    "label": "Personal Comfort Guidance",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.href16",
+    "label": "href · /",
+    "group": "Navbar",
+    "kind": "href"
+  },
+  {
+    "key": "Navbar.src17",
+    "label": "src · /images/sleepndream.png",
+    "group": "Navbar",
+    "kind": "src"
+  },
+  {
+    "key": "Navbar.alt18",
+    "label": "alt · Sleep n Dream",
+    "group": "Navbar",
+    "kind": "alt"
+  },
+  {
+    "key": "Navbar.src19",
+    "label": "src · /images/sleepndream-black.png",
+    "group": "Navbar",
+    "kind": "src"
+  },
+  {
+    "key": "Navbar.alt20",
+    "label": "alt · Sleep n Dream",
+    "group": "Navbar",
+    "kind": "alt"
+  },
+  {
+    "key": "Navbar.text21",
+    "label": "Complimentary delivery across Indonesia on selected collections",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text22",
+    "label": "Complimentary delivery across Indonesia on selected collections",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.text28",
+    "label": "Image",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.href29",
+    "label": "href · #",
+    "group": "Navbar",
+    "kind": "href"
+  },
+  {
+    "key": "Navbar.href30",
+    "label": "href · #",
+    "group": "Navbar",
+    "kind": "href"
+  },
+  {
+    "key": "Navbar.text31",
+    "label": "DISCOVER MORE",
+    "group": "Navbar"
+  },
+  {
+    "key": "Footer.LINKS",
+    "label": "Kolom footer & tautan",
+    "group": "Footer",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "Footer.text2",
+    "label": "CUSTOMER SERVICE",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text3",
+    "label": "Monday to Saturday 10am – 9pm WIB",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.href4",
+    "label": "href · tel:+62215551234",
+    "group": "Footer",
+    "kind": "href"
+  },
+  {
+    "key": "Footer.href5",
+    "label": "href · mailto:hello@sleepndream.id",
+    "group": "Footer",
+    "kind": "href"
+  },
+  {
+    "key": "Footer.text6",
+    "label": "Email us",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text7",
+    "label": "NEWSLETTER",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text8",
+    "label": "Receive our newsletter and discover our stories, collections,",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text9",
+    "label": "and surprises.",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text10",
+    "label": "SUBSCRIBE",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text11",
+    "label": "FOLLOW US",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.href12",
+    "label": "href · #",
+    "group": "Footer",
+    "kind": "href"
+  },
+  {
+    "key": "Footer.href13",
+    "label": "href · #",
+    "group": "Footer",
+    "kind": "href"
+  },
+  {
+    "key": "Footer.href14",
+    "label": "href · #",
+    "group": "Footer",
+    "kind": "href"
+  },
+  {
+    "key": "Footer.href15",
+    "label": "href · #",
+    "group": "Footer",
+    "kind": "href"
+  },
+  {
+    "key": "Footer.text16",
+    "label": "SHIP TO : INDONESIA ›",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text17",
+    "label": "© Sleep n Dream",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.text18",
+    "label": ". All rights reserved.",
+    "group": "Footer"
+  },
+  {
+    "key": "AboutUs.SECTIONS",
+    "label": "Cerita & section About",
+    "group": "AboutUs",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "AboutUs.src1",
+    "label": "src · /images/bordeaux-section-new.jpg",
+    "group": "AboutUs",
+    "kind": "src"
+  },
+  {
+    "key": "AboutUs.text2",
+    "label": "Sleep n Dream / About Us",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.text3",
+    "label": "Crafted for better rest,",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.text4",
+    "label": "made for",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.text5",
+    "label": "better living.",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.text6",
+    "label": "The Sleep n Dream Philosophy",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.text7",
+    "label": "Comfort designed for deeper rest.",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.text8",
+    "label": "Crafted with purpose.",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.text9",
+    "label": "Made to last.",
+    "group": "AboutUs"
+  },
+  {
+    "key": "AboutUs.href10",
+    "label": "href · /collection",
+    "group": "AboutUs",
+    "kind": "href"
+  },
+  {
+    "key": "AboutUs.text11",
+    "label": "Explore Collection",
+    "group": "AboutUs"
+  },
+  {
+    "key": "ProductCatalog.src1",
+    "label": "src · /images/bordeaux-section-new.jpg",
+    "group": "ProductCatalog",
+    "kind": "src"
+  },
+  {
+    "key": "ProductCatalog.text2",
+    "label": "Sleep n Dream / sleep collection",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text3",
+    "label": "Find the comfort",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text4",
+    "label": "that feels like",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text5",
+    "label": "home.",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text6",
+    "label": "Results",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text7",
+    "label": "Sort by",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text8",
+    "label": "Featured",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text9",
+    "label": "Price: low to high",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text10",
+    "label": "See more collections",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text11",
+    "label": "Showing",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text12",
+    "label": "of",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductCatalog.text13",
+    "label": "Products",
+    "group": "ProductCatalog"
+  },
+  {
+    "key": "ProductDetail.ADD_ONS",
+    "label": "Pilihan add-on",
+    "group": "ProductDetail",
+    "kind": "structured",
+    "minItems": 0
+  },
+  {
+    "key": "ProductDetail.text1",
+    "label": "Product Overview",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text2",
+    "label": "Built with carefully selected materials and a composed support system,",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text3",
+    "label": "brings lasting comfort to the room without asking for attention. Every l",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text4",
+    "label": "Size Information",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text5",
+    "label": "Available in Single 100 × 200 cm, Super Single 120 × 200 cm, Queen 160 ×",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text6",
+    "label": "Care Instructions",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text7",
+    "label": "Rotate the mattress every three months, keep the surface dry, and use a ",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text8",
+    "label": "Shipping & Returns",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text9",
+    "label": "Complimentary scheduled delivery is available in selected areas across I",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text10",
+    "label": "Colour presentation",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text11",
+    "label": "Size",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text12",
+    "label": "Configuration",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text15",
+    "label": "Add to cart",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text16",
+    "label": "Checkout now",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text17",
+    "label": "Paired for deeper rest",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text18",
+    "label": "Finish your sleep setting",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text19",
+    "label": "Discover tactile additions chosen to bring softness, support, and a comp",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text20",
+    "label": "Size",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text21",
+    "label": "Colour",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text22",
+    "label": "Ivory",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text23",
+    "label": "Sand",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text24",
+    "label": "Taupe",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text25",
+    "label": "Add selected items",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text26",
+    "label": "Continue exploring",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "ProductDetail.text27",
+    "label": "You might also like",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "Home.sections",
+    "label": "Urutan & visibilitas section",
+    "group": "Home",
+    "kind": "sections"
+  },
+  {
+    "key": "Home.banners",
+    "label": "Banner cerita & promosi",
+    "group": "Home",
+    "kind": "structured",
+    "fixedLength": true
+  },
+  {
+    "key": "Site.seo",
+    "label": "Judul & deskripsi pencarian",
+    "group": "Site"
+  },
+  {
+    "key": "Navbar.categoryLabels",
+    "label": "Label kategori menu",
+    "group": "Navbar"
+  },
+  {
+    "key": "Navbar.pageLabels",
+    "label": "Label halaman menu",
+    "group": "Navbar"
+  },
+  {
+    "key": "SocialFloat.links",
+    "label": "WhatsApp, Instagram & email",
+    "group": "SocialFloat"
+  },
+  {
+    "key": "ProductDetail.swatches",
+    "label": "Pilihan warna",
+    "group": "ProductDetail"
+  },
+  {
+    "key": "Hero.ctaHref",
+    "label": "Tautan Explore More",
+    "group": "Hero"
+  },
+  {
+    "key": "Footer.phoneLabel",
+    "label": "Nomor telepon yang ditampilkan",
+    "group": "Footer"
+  },
+  {
+    "key": "Footer.newsletterHref",
+    "label": "Tautan pendaftaran newsletter",
+    "group": "Footer"
+  }
+]

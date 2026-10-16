@@ -1,0 +1,221 @@
+[
+  {
+    "slug": "universal",
+    "name": "Universal",
+    "line": "Posture Zone Series",
+    "comfort": "Balanced",
+    "price": "Rp 28.000.000",
+    "badge": "Best seller",
+    "image": "/demo-products/universal.webp",
+    "hoverImage": "/product-assets/universal-details.jpg",
+    "gallery": [
+      "/product-assets/universal-main.png",
+      "/product-assets/universal-details.jpg",
+      "/product-assets/universal-wide.jpg",
+      "/product-assets/universal-wide-2.jpeg"
+    ],
+    "description": "A composed sleep surface made for balanced support and an effortless bedroom ritual.",
+    "highlights": [
+      "Posture Zone support",
+      "Balanced comfort",
+      "Tailored sleep surface"
+    ],
+    "isFeatured": true,
+    "sizes": [
+      "Single",
+      "Super Single",
+      "Queen",
+      "King"
+    ],
+    "configurations": [
+      "Bed Only",
+      "Set"
+    ],
+    "numericPrice": 28000000
+  },
+  {
+    "slug": "bordeaux",
+    "name": "Bordeaux",
+    "line": "Euro Top Collection",
+    "comfort": "Plush",
+    "price": "Rp 22.000.000",
+    "badge": "New arrival",
+    "image": "/demo-products/bordeaux.webp",
+    "hoverImage": "/product-assets/bordeaux-details.jpeg",
+    "gallery": [
+      "/product-assets/bordeaux-main.png",
+      "/product-assets/bordeaux-details.jpeg",
+      "/product-assets/bordeaux-front.jpg",
+      "/product-assets/bordeaux-wide.png",
+      "/product-assets/bordeaux-wide-2.jpg"
+    ],
+    "description": "A softly cushioned Euro Top profile with a calm, inviting finish for slower mornings and deeper rest.",
+    "highlights": [
+      "Euro Top comfort",
+      "Soft contouring",
+      "Refined quilted finish"
+    ],
+    "isFeatured": true,
+    "sizes": [
+      "Single",
+      "Super Single",
+      "Queen",
+      "King"
+    ],
+    "configurations": [
+      "Bed Only",
+      "Set"
+    ],
+    "numericPrice": 22000000
+  },
+  {
+    "slug": "serenade-iii",
+    "name": "Serenade III",
+    "line": "Body Adjuster Series",
+    "comfort": "Balanced",
+    "price": "Rp 18.500.000",
+    "image": "/demo-products/serenade-iii.webp",
+    "hoverImage": "/product-assets/serenade-iii-details.jpg",
+    "gallery": [
+      "/product-assets/serenade-iii-main.png",
+      "/product-assets/serenade-iii-details.jpg",
+      "/product-assets/serenade-iii-front.jpg",
+      "/product-assets/serenade-iii-wide.jpg",
+      "/product-assets/serenade-iii-wide-2.jpg",
+      "/product-assets/serenade-iii-wide-3.jpg"
+    ],
+    "description": "Responsive comfort designed to follow the natural rhythm of your body throughout the night.",
+    "highlights": [
+      "Body Adjuster system",
+      "Responsive feel",
+      "Quiet, steady support"
+    ],
+    "isFeatured": true,
+    "sizes": [
+      "Single",
+      "Super Single",
+      "Queen",
+      "King"
+    ],
+    "configurations": [
+      "Bed Only",
+      "Set"
+    ],
+    "numericPrice": 18500000
+  },
+  {
+    "slug": "vienna",
+    "name": "Vienna",
+    "line": "Posture Zone Series",
+    "comfort": "Firm",
+    "price": "Rp 24.000.000",
+    "image": "/demo-products/vienna.webp",
+    "hoverImage": "/product-assets/vienna-details.jpg",
+    "gallery": [
+      "/product-assets/vienna-main.png",
+      "/product-assets/vienna-details.jpg",
+      "/product-assets/vienna-details-alt.jpeg",
+      "/product-assets/vienna-wide.png",
+      "/product-assets/vienna-wide-2.jpg"
+    ],
+    "description": "A tailored mattress that brings composed structure to every night of rest.",
+    "highlights": [
+      "Posture Zone support",
+      "Firm, steady feel",
+      "Structured comfort"
+    ],
+    "isFeatured": true,
+    "sizes": [
+      "Single",
+      "Super Single",
+      "Queen",
+      "King"
+    ],
+    "configurations": [
+      "Bed Only",
+      "Set"
+    ],
+    "numericPrice": 24000000
+  },
+  {
+    "slug": "drspine",
+    "name": "DrSpine",
+    "line": "Dr. Spine",
+    "comfort": "",
+    "price": "Rp 10.500.000",
+    "numericPrice": 10500000,
+    "image": "/demo-products/drspine.webp",
+    "hoverImage": "/catalogue/Dr Spine/Dr Spine - Details.jpg",
+    "gallery": [
+      "/category/DrSpine-new.png",
+      "/catalogue/Dr Spine/Dr Spine - Details.jpg"
+    ],
+    "description": "",
+    "highlights": [],
+    "isFeatured": true,
+    "sizes": [
+      "Single",
+      "Super Single",
+      "Queen",
+      "King"
+    ],
+    "configurations": [
+      "Bed Only",
+      "Set"
+    ]
+  },
+  {
+    "slug": "luxor",
+    "name": "Luxor",
+    "line": "Sleep n Dream Collection",
+    "comfort": "",
+    "price": "Rp 9.000.000",
+    "numericPrice": 9000000,
+    "image": "/demo-products/luxor.webp",
+    "hoverImage": "/catalogue/Luxor/Luxor - Details.jpg",
+    "gallery": [
+      "/category/Luxor.png",
+      "/catalogue/Luxor/Luxor - Details.jpg"
+    ],
+    "description": "",
+    "highlights": [],
+    "isFeatured": true,
+    "sizes": [
+      "Single",
+      "Super Single",
+      "Queen",
+      "King"
+    ],
+    "configurations": [
+      "Bed Only",
+      "Set"
+    ]
+  },
+  {
+    "slug": "riviera",
+    "name": "Riviera",
+    "line": "Sleep n Dream Collection",
+    "comfort": "",
+    "price": "Rp 11.000.000",
+    "numericPrice": 11000000,
+    "image": "/demo-products/riviera.webp",
+    "hoverImage": "/catalogue/Riviera/Riviera - Details.jpeg",
+    "gallery": [
+      "/category/Riviera-new.png",
+      "/catalogue/Riviera/Riviera - Details.jpeg"
+    ],
+    "description": "",
+    "highlights": [],
+    "isFeatured": true,
+    "sizes": [
+      "Single",
+      "Super Single",
+      "Queen",
+      "King"
+    ],
+    "configurations": [
+      "Bed Only",
+      "Set"
+    ]
+  }
+]

@@ -1,0 +1,1347 @@
+{
+  "Hero.src1": "/video/hero-main-new.mp4",
+  "Hero.text2": "CRAFTED FOR DEEP REST",
+  "Hero.text3": "Nature's",
+  "Hero.text4": "Gift",
+  "Hero.text5": "to",
+  "Hero.text6": "Comfort",
+  "Hero.text7": "Crafted from nature, perfected by 28 years of artistry",
+  "Hero.text8": "EXPLORE MORE",
+  "OurSignature.SIGNATURE_ITEMS": [
+    {
+      "id": 1,
+      "image": "/our-signature/drspine-square.jpg",
+      "alt": "Sonata Collection",
+      "name": "Sonata Collection",
+      "description": "A thoughtfully crafted collection designed to bring balanced comfort, refined support, and a more restful sleep experience.",
+      "href": "/collection"
+    },
+    {
+      "id": 2,
+      "image": "/our-signature/luxor-square.jpg",
+      "alt": "Posture Zone Collection",
+      "name": "Posture Zone Collection",
+      "description": "Designed with supportive comfort in mind, helping create a more balanced and naturally aligned sleep experience.",
+      "href": "/collection"
+    },
+    {
+      "id": 3,
+      "image": "/our-signature/vienna-square.jpg",
+      "alt": "Body Adjuster Collection",
+      "name": "Body Adjuster Collection",
+      "description": "Responsive comfort designed to adapt naturally to the body, creating a supportive and relaxed surface for deeper rest.",
+      "href": "/collection"
+    },
+    {
+      "id": 4,
+      "image": "/our-signature/serenade1-square.jpg",
+      "alt": "Precious Moment Collection",
+      "name": "Precious Moment Collection",
+      "description": "Created for moments of quiet relaxation, combining gentle comfort with an inviting sense of warmth and ease.",
+      "href": "/collection"
+    },
+    {
+      "id": 5,
+      "image": "/our-signature/serenade3-square.jpg",
+      "alt": "Cosmopolitan Collection",
+      "name": "Cosmopolitan Collection",
+      "description": "A refined collection that brings together contemporary character, thoughtful comfort, and an effortless sleep experience.",
+      "href": "/collection"
+    }
+  ],
+  "OurSignature.text1": "Our Signature Collection",
+  "OurSignature.text2": "Crafted for deeper comfort, effortless rest, and timeless sleep.",
+  "OurSignature.href3": "/collection",
+  "OurSignature.text4": "Explore Collection",
+  "OurSignature.href5": "/collection",
+  "FeaturedCategory.text1": "Best Sellers",
+  "FeaturedCategory.text2": "Our most-loved mattresses, made for better sleep.",
+  "FeaturedCategory.href3": "/collection",
+  "FeaturedCategory.text4": "Shop Best Seller",
+  "AccessoriesCarousel.ACCESSORIES": [
+    {
+      "name": "Pillows",
+      "description": "Soft support for the way you sleep, with a gentle finish that makes settling in feel effortless.",
+      "image": "/accessories/pillow.webp",
+      "alt": "Ivory pillow on a warm stone plinth",
+      "href": "/collection"
+    },
+    {
+      "name": "Bolsters",
+      "description": "A reassuring layer of support to hold close or rest alongside you through the night.",
+      "image": "/accessories/bolster.webp",
+      "alt": "Ivory bolster on a warm stone plinth",
+      "href": "/collection"
+    },
+    {
+      "name": "Comfort Layers",
+      "description": "Add a soft, quilted finish that makes your sleep surface feel even more inviting.",
+      "image": "/accessories/comfort-layer.webp",
+      "alt": "Folded quilted comfort layer on a warm stone plinth",
+      "href": "/collection"
+    },
+    {
+      "name": "Duvets",
+      "description": "Light, comforting coverage that completes the bed without weighing down your rest.",
+      "image": "/accessories/duvet.webp",
+      "alt": "Folded ivory duvet on a warm stone plinth",
+      "href": "/collection"
+    }
+  ],
+  "AccessoriesCarousel.text1": "Accessories",
+  "AccessoriesCarousel.text2": "Thoughtful pillows, bolsters, and layers for a softer night's rest.",
+  "AccessoriesCarousel.href3": "#accessories-products",
+  "AccessoriesCarousel.text4": "Shop Collection",
+  "AccessoriesCarousel.text5": "Discover",
+  "StoreGallery.DR_SPINE_VIDEO": "https://sleepndream-cdn.vicecersaa.workers.dev/videos/drspine.mp4",
+  "StoreGallery.STORES": [
+    {
+      "name": "Green Lake",
+      "image": "/stores/green-lake-preview.webp",
+      "alt": "Sleep n Dream Gallery Green Lake",
+      "description": "Experience our sleep collection in person and find the support, feel, and finish that suit the way you rest.",
+      "map": "https://www.google.com/maps/search/?api=1&query=Sleep n Dream+Gallery+Green+Lake"
+    },
+    {
+      "name": "Artha Gading",
+      "image": "/stores/artha-gading-preview.webp",
+      "alt": "Sleep n Dream Gallery Artha Gading",
+      "description": "Explore Sleep n Dream mattresses with personal guidance and discover the comfort that feels right for your home.",
+      "map": "https://www.google.com/maps/search/?api=1&query=Sleep n Dream+Gallery+Artha+Gading"
+    }
+  ],
+  "StoreGallery.poster1": "/category/DrSpine-new.png",
+  "StoreGallery.text2": "SLEEP N DREAM / DR.SPINE",
+  "StoreGallery.text3": "Support That",
+  "StoreGallery.text4": "Moves With You",
+  "StoreGallery.text5": "Thoughtfully engineered for balanced support and lasting comfort. Discover a mattress designed to help you wake up feeling ready for the day ahead.",
+  "StoreGallery.href6": "/collection",
+  "StoreGallery.text7": "Explore Dr.Spine",
+  "StoreGallery.text8": "VISIT SLEEP N DREAM",
+  "StoreGallery.text9": "Sleep n Dream Gallery",
+  "StoreGallery.text10": "View Gallery",
+  "NewsletterBenefits.BENEFITS": [
+    {
+      "id": 1,
+      "title": "Delivery",
+      "description": "Enjoy convenient delivery on selected Sleep n Dream purchases.",
+      "icon": "/Icons/delivery.png"
+    },
+    {
+      "id": 2,
+      "title": "Secure Shopping",
+      "description": "A seamless and secure experience from selection to checkout.",
+      "icon": "/Icons/shopping.png"
+    },
+    {
+      "id": 3,
+      "title": "Crafted Comfort",
+      "description": "Thoughtfully designed sleep essentials made for everyday rest.",
+      "icon": "/Icons/crafted.png"
+    },
+    {
+      "id": 4,
+      "title": "Support",
+      "description": "Our team is here to help you find the right comfort for your space.",
+      "icon": "/Icons/support.png"
+    }
+  ],
+  "NewsletterBenefits.text1": "The Sleep n Dream Difference",
+  "NewsletterBenefits.text2": "Why Sleep n Dream?",
+  "VideoSection.SERVICES": [
+    {
+      "id": 1,
+      "category": "DR.SPINE",
+      "tag": "ORTHOPEDIC COMFORT",
+      "title": "Targeted Back Support",
+      "description": "Thoughtfully designed to support your spine and help maintain a naturally balanced sleeping position throughout the night.",
+      "image": "/photos/Misc1.png",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "category": "DR.SPINE",
+      "tag": "PRESSURE RELIEF",
+      "title": "Adaptive Comfort",
+      "description": "Responsive comfort layers gently adapt to your body, easing pressure and creating a more comfortable place to rest.",
+      "image": "/photos/Misc2.png",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "category": "DR.SPINE",
+      "tag": "SLEEP WELLNESS",
+      "title": "Rest With Confidence",
+      "description": "Experience dependable support and lasting comfort, thoughtfully crafted for a more restful night of sleep.",
+      "image": "/photos/Misc8.png",
+      "href": "#"
+    },
+    {
+      "id": 4,
+      "category": "DR.SPINE",
+      "tag": "EVERYDAY COMFORT",
+      "title": "Made for Better Mornings",
+      "description": "Discover a more comfortable way to unwind, with carefully considered layers that make every night feel effortless.",
+      "image": "/photos/Misc1.png",
+      "href": "#"
+    },
+    {
+      "id": 5,
+      "category": "DR.SPINE",
+      "tag": "BODY SUPPORT",
+      "title": "Comfort in Every Position",
+      "description": "Whether you rest on your side or back, adaptive layers respond to your body for a naturally comfortable sleep experience.",
+      "image": "/photos/Misc2.png",
+      "href": "#"
+    },
+    {
+      "id": 6,
+      "category": "DR.SPINE",
+      "tag": "THOUGHTFUL DESIGN",
+      "title": "The Art of Restful Sleep",
+      "description": "A considered balance of softness and support, designed to transform your bedroom into a place of complete relaxation.",
+      "image": "/photos/Misc8.png",
+      "href": "#"
+    },
+    {
+      "id": 7,
+      "category": "DR.SPINE",
+      "tag": "LASTING COMFORT",
+      "title": "Support That Stays",
+      "description": "Discover a dependable sleep surface that brings together everyday durability and a consistently comfortable feel.",
+      "image": "/photos/Misc1.png",
+      "href": "#"
+    },
+    {
+      "id": 8,
+      "category": "DR.SPINE",
+      "tag": "PERSONAL COMFORT",
+      "title": "Designed Around You",
+      "description": "Every layer works together to create a more personal resting experience, adapting naturally to the way you sleep.",
+      "image": "/photos/Misc2.png",
+      "href": "#"
+    },
+    {
+      "id": 9,
+      "category": "DR.SPINE",
+      "tag": "REST & RECOVERY",
+      "title": "A Softer Way to Unwind",
+      "description": "Leave the demands of the day behind and settle into a thoughtfully crafted space made for peaceful, comfortable rest.",
+      "image": "/photos/Misc8.png",
+      "href": "#"
+    }
+  ],
+  "VideoSection.text1": "Discover More",
+  "VideoSection.text2": "Sleep n Dream Article",
+  "VideoSection.text3": "Stories on comfort, thoughtful design, and the art of better rest.",
+  "VideoSection.href4": "/journal",
+  "VideoSection.text5": "Explore Articles",
+  "Sleep n DreamSocials.SOCIAL_ITEMS": [
+    {
+      "id": 1,
+      "src": "/instagram/ig1.jpg",
+      "alt": "Sleep n Dream lifestyle 1",
+      "title": "Sleep n Dream Living",
+      "cta": "Discover",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    },
+    {
+      "id": 2,
+      "src": "/instagram/ig2.jpg",
+      "alt": "Sleep n Dream lifestyle 2",
+      "title": "Crafted Comfort",
+      "cta": "Explore",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    },
+    {
+      "id": 3,
+      "src": "/instagram/ig3.jpg",
+      "alt": "Sleep n Dream lifestyle 3",
+      "title": "Signature Rest",
+      "cta": "Shop",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    },
+    {
+      "id": 4,
+      "src": "/instagram/ig4.jpg",
+      "alt": "Sleep n Dream lifestyle 4",
+      "title": "The Art Of Sleeping Well",
+      "cta": "Discover",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    },
+    {
+      "id": 5,
+      "src": "/instagram/ig5.jpg",
+      "alt": "Sleep n Dream lifestyle 5",
+      "title": "Everyday Softness",
+      "cta": "Explore",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    },
+    {
+      "id": 6,
+      "src": "/instagram/ig6.jpg",
+      "alt": "Sleep n Dream lifestyle 6",
+      "title": "Bedroom Inspiration",
+      "cta": "Shop",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    },
+    {
+      "id": 7,
+      "src": "/instagram/ig7.jpg",
+      "alt": "Sleep n Dream lifestyle 7",
+      "title": "Elevated Living",
+      "cta": "Discover",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    },
+    {
+      "id": 8,
+      "src": "/instagram/ig8.jpg",
+      "alt": "Sleep n Dream lifestyle 8",
+      "title": "A More Considered Home",
+      "cta": "Explore",
+      "href": "https://www.instagram.com/sleepndream.bed/"
+    }
+  ],
+  "Sleep n DreamSocials.text1": "Inspiration for Better Sleeps.",
+  "Sleep n DreamSocials.text2": "Discover bedding, styling, and sleep insights on our Instagram, @sleepndream.bed",
+  "Navbar.PAGE_ROUTES": {
+    "HOME": "/",
+    "ABOUT US": "/about",
+    "COLLECTION": "/collection"
+  },
+  "Navbar.MEGA_MENU_DATA": {
+    "MATTRESS": {
+      "groups": [
+        {
+          "title": "BY COMFORT LEVEL",
+          "items": [
+            {
+              "label": "Spring Mattress",
+              "href": "/collection"
+            },
+            {
+              "label": "Memory Foam",
+              "href": "/collection"
+            },
+            {
+              "label": "Latex",
+              "href": "/collection"
+            },
+            {
+              "label": "Hybrid",
+              "href": "/collection"
+            },
+            {
+              "label": "Pillow Top",
+              "href": "/collection"
+            },
+            {
+              "label": "Orthopedic",
+              "href": "/collection"
+            },
+            {
+              "label": "Trilogy",
+              "href": "/collection"
+            },
+            {
+              "label": "Pocketed Coil",
+              "href": "/collection"
+            },
+            {
+              "label": "Duology",
+              "href": "/collection"
+            },
+            {
+              "label": "Natural Latex",
+              "href": "/collection"
+            },
+            {
+              "label": "All Mattresses",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BY COLLECTION",
+          "items": [
+            {
+              "label": "Bristol Series",
+              "href": "/collection"
+            },
+            {
+              "label": "Prelude Series",
+              "href": "/collection"
+            },
+            {
+              "label": "Optimum Series",
+              "href": "/collection"
+            },
+            {
+              "label": "Bordeaux Series",
+              "href": "/collection"
+            },
+            {
+              "label": "Universal Series",
+              "href": "/collection"
+            },
+            {
+              "label": "Hotel Collection",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BEST FOR",
+          "items": [
+            {
+              "label": "Back Support",
+              "href": "/collection"
+            },
+            {
+              "label": "Couples",
+              "href": "/collection"
+            },
+            {
+              "label": "Hotel Grade",
+              "href": "/collection"
+            },
+            {
+              "label": "Temperature",
+              "href": "/collection"
+            },
+            {
+              "label": "Kids & Teens",
+              "href": "/collection"
+            },
+            {
+              "label": "Side Sleepers",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BY SIZE",
+          "items": [
+            {
+              "label": "Single",
+              "href": "/collection"
+            },
+            {
+              "label": "Super Single",
+              "href": "/collection"
+            },
+            {
+              "label": "Queen",
+              "href": "/collection"
+            },
+            {
+              "label": "King",
+              "href": "/collection"
+            },
+            {
+              "label": "Custom Size",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "PROMOTIONS",
+          "items": [
+            {
+              "label": "Flash Sale",
+              "href": "/collection"
+            },
+            {
+              "label": "Bundle Deal",
+              "href": "/collection"
+            },
+            {
+              "label": "Free Pillow Promo",
+              "href": "/collection"
+            },
+            {
+              "label": "Trade-In Offer",
+              "href": "/collection"
+            },
+            {
+              "label": "End of Season",
+              "href": "/collection"
+            }
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "label": "HOTEL COLLECTION",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "PILLOW TOP SERIES",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "LATEX RANGE",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        }
+      ]
+    },
+    "BED FRAME": {
+      "groups": [
+        {
+          "title": "BY STYLE",
+          "items": [
+            {
+              "label": "Minimalist",
+              "href": "/collection"
+            },
+            {
+              "label": "Upholstered",
+              "href": "/collection"
+            },
+            {
+              "label": "Panel Bed",
+              "href": "/collection"
+            },
+            {
+              "label": "Storage Bed",
+              "href": "/collection"
+            },
+            {
+              "label": "Canopy",
+              "href": "/collection"
+            },
+            {
+              "label": "Platform Bed",
+              "href": "/collection"
+            },
+            {
+              "label": "All Styles",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BY MATERIAL",
+          "items": [
+            {
+              "label": "Solid Teak Wood",
+              "href": "/collection"
+            },
+            {
+              "label": "Oak & Walnut",
+              "href": "/collection"
+            },
+            {
+              "label": "Metal Frame",
+              "href": "/collection"
+            },
+            {
+              "label": "Velvet Fabric",
+              "href": "/collection"
+            },
+            {
+              "label": "Premium Leather",
+              "href": "/collection"
+            },
+            {
+              "label": "Rattan Weave",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BY SIZE",
+          "items": [
+            {
+              "label": "Single",
+              "href": "/collection"
+            },
+            {
+              "label": "Super Single",
+              "href": "/collection"
+            },
+            {
+              "label": "Queen",
+              "href": "/collection"
+            },
+            {
+              "label": "King",
+              "href": "/collection"
+            },
+            {
+              "label": "California King",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BY FEATURE",
+          "items": [
+            {
+              "label": "With Storage Drawer",
+              "href": "/collection"
+            },
+            {
+              "label": "With Headboard",
+              "href": "/collection"
+            },
+            {
+              "label": "Adjustable Base",
+              "href": "/collection"
+            },
+            {
+              "label": "Foldable",
+              "href": "/collection"
+            },
+            {
+              "label": "Wall-Mounted",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "NEW ARRIVALS",
+          "items": [
+            {
+              "label": "Vienna Frame",
+              "href": "/collection"
+            },
+            {
+              "label": "Oslo Series",
+              "href": "/collection"
+            },
+            {
+              "label": "Tokyo Edition",
+              "href": "/collection"
+            },
+            {
+              "label": "Milan Bed",
+              "href": "/collection"
+            },
+            {
+              "label": "Paris Luxe",
+              "href": "/collection"
+            }
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "label": "UPHOLSTERED FRAMES",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "SOLID WOOD SERIES",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "STORAGE BEDS",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        }
+      ]
+    },
+    "BEDROOM SET": {
+      "groups": [
+        {
+          "title": "COMPLETE SETS",
+          "items": [
+            {
+              "label": "Classic Suite",
+              "href": "/collection"
+            },
+            {
+              "label": "Modern Suite",
+              "href": "/collection"
+            },
+            {
+              "label": "European Suite",
+              "href": "/collection"
+            },
+            {
+              "label": "Scandinavian Suite",
+              "href": "/collection"
+            },
+            {
+              "label": "Japanese Suite",
+              "href": "/collection"
+            },
+            {
+              "label": "Luxe Suite",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "PACKAGE INCLUDES",
+          "items": [
+            {
+              "label": "Bed Frame + Mattress",
+              "href": "/collection"
+            },
+            {
+              "label": "Full Bedroom Package",
+              "href": "/collection"
+            },
+            {
+              "label": "Frame + Wardrobe",
+              "href": "/collection"
+            },
+            {
+              "label": "Custom Bundle",
+              "href": "/collection"
+            },
+            {
+              "label": "Starter Package",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BY THEME",
+          "items": [
+            {
+              "label": "Contemporary",
+              "href": "/collection"
+            },
+            {
+              "label": "Scandinavian",
+              "href": "/collection"
+            },
+            {
+              "label": "Japandi",
+              "href": "/collection"
+            },
+            {
+              "label": "Opulent",
+              "href": "/collection"
+            },
+            {
+              "label": "Minimalist",
+              "href": "/collection"
+            },
+            {
+              "label": "Industrial",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BY ROOM SIZE",
+          "items": [
+            {
+              "label": "Small Room (< 10m²)",
+              "href": "/collection"
+            },
+            {
+              "label": "Medium Room",
+              "href": "/collection"
+            },
+            {
+              "label": "Master Bedroom",
+              "href": "/collection"
+            },
+            {
+              "label": "Penthouse Suite",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "EXCLUSIVE",
+          "items": [
+            {
+              "label": "Limited Edition",
+              "href": "/collection"
+            },
+            {
+              "label": "Designer Collab",
+              "href": "/collection"
+            },
+            {
+              "label": "Hotel Collection",
+              "href": "/collection"
+            },
+            {
+              "label": "Flagship Series",
+              "href": "/collection"
+            }
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "label": "EUROPEAN SUITE",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "SCANDINAVIAN EDIT",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "MASTER BEDROOM",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        }
+      ]
+    },
+    "ACCESSORIES": {
+      "groups": [
+        {
+          "title": "PILLOWS & TOPPERS",
+          "items": [
+            {
+              "label": "Memory Foam Pillow",
+              "href": "/collection"
+            },
+            {
+              "label": "Latex Pillow",
+              "href": "/collection"
+            },
+            {
+              "label": "Hotel-Grade Pillow",
+              "href": "/collection"
+            },
+            {
+              "label": "Mattress Topper",
+              "href": "/collection"
+            },
+            {
+              "label": "Bolster",
+              "href": "/collection"
+            },
+            {
+              "label": "Body Pillow",
+              "href": "/collection"
+            },
+            {
+              "label": "All Pillows",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BEDDING",
+          "items": [
+            {
+              "label": "Fitted Sheet Set",
+              "href": "/collection"
+            },
+            {
+              "label": "Duvet & Cover",
+              "href": "/collection"
+            },
+            {
+              "label": "Bed Runner",
+              "href": "/collection"
+            },
+            {
+              "label": "Cushion Set",
+              "href": "/collection"
+            },
+            {
+              "label": "Pillowcase Set",
+              "href": "/collection"
+            },
+            {
+              "label": "Blankets & Throws",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "CARE & PROTECT",
+          "items": [
+            {
+              "label": "Mattress Protector",
+              "href": "/collection"
+            },
+            {
+              "label": "Waterproof Cover",
+              "href": "/collection"
+            },
+            {
+              "label": "Cleaning Kit",
+              "href": "/collection"
+            },
+            {
+              "label": "Bed Riser",
+              "href": "/collection"
+            },
+            {
+              "label": "Anti-Dust Cover",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "BED ACCESSORIES",
+          "items": [
+            {
+              "label": "Replacement Legs",
+              "href": "/collection"
+            },
+            {
+              "label": "Slat Kit",
+              "href": "/collection"
+            },
+            {
+              "label": "Headboard Panel",
+              "href": "/collection"
+            },
+            {
+              "label": "Side Rail Set",
+              "href": "/collection"
+            },
+            {
+              "label": "Under-bed Storage",
+              "href": "/collection"
+            }
+          ]
+        },
+        {
+          "title": "GIFT IDEAS",
+          "items": [
+            {
+              "label": "Sleep Gift Set",
+              "href": "/collection"
+            },
+            {
+              "label": "Pillow Bundle",
+              "href": "/collection"
+            },
+            {
+              "label": "Care Package",
+              "href": "/collection"
+            },
+            {
+              "label": "Vouchers",
+              "href": "/collection"
+            },
+            {
+              "label": "Corporate Gifting",
+              "href": "/collection"
+            }
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "label": "CLOUD PILLOWS",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "BEDDING ESSENTIALS",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        },
+        {
+          "label": "CARE & PROTECT",
+          "cta": "Discover more",
+          "href": "/collection",
+          "src": "/images/hero.png"
+        }
+      ]
+    }
+  },
+  "Navbar.text1": "PAGES",
+  "Navbar.href2": "/",
+  "Navbar.text3": "HOME",
+  "Navbar.href4": "/about",
+  "Navbar.text5": "ABOUT US",
+  "Navbar.href6": "/collection",
+  "Navbar.text7": "COLLECTION",
+  "Navbar.text8": "SHOP",
+  "Navbar.text9": "Back",
+  "Navbar.text11": "Account",
+  "Navbar.text12": "Search",
+  "Navbar.text13": "Discover Sleep n Dream comfort",
+  "Navbar.text14": "Complimentary Delivery",
+  "Navbar.text15": "Personal Comfort Guidance",
+  "Navbar.href16": "/",
+  "Navbar.src17": "/images/sleepndream.png",
+  "Navbar.alt18": "Sleep n Dream",
+  "Navbar.src19": "/images/sleepndream-black.png",
+  "Navbar.alt20": "Sleep n Dream",
+  "Navbar.text21": "Complimentary delivery across Indonesia on selected collections",
+  "Navbar.text22": "Complimentary delivery across Indonesia on selected collections",
+  "Navbar.text28": "Image",
+  "Navbar.href29": "#",
+  "Navbar.href30": "#",
+  "Navbar.text31": "DISCOVER MORE",
+  "Footer.LINKS": [
+    {
+      "title": "SERVICES",
+      "items": [
+        {
+          "label": "Contact us",
+          "href": "#"
+        },
+        {
+          "label": "FAQ",
+          "href": "#"
+        },
+        {
+          "label": "Find a store",
+          "href": "#"
+        },
+        {
+          "label": "Stores selling beauty products",
+          "href": "#"
+        },
+        {
+          "label": "Gifting",
+          "href": "#"
+        },
+        {
+          "label": "Made to measure",
+          "href": "#"
+        },
+        {
+          "label": "Maintenance and repair",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "title": "ORDERS",
+      "items": [
+        {
+          "label": "Payment",
+          "href": "#"
+        },
+        {
+          "label": "Shipping",
+          "href": "#"
+        },
+        {
+          "label": "Collect in store",
+          "href": "#"
+        },
+        {
+          "label": "Track orders",
+          "href": "#"
+        },
+        {
+          "label": "Returns and exchanges",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "title": "ABOUT SLEEP N DREAM",
+      "items": [
+        {
+          "label": "Our story",
+          "href": "#"
+        },
+        {
+          "label": "Sustainability",
+          "href": "#"
+        },
+        {
+          "label": "The Sleep n Dream Foundation",
+          "href": "#"
+        },
+        {
+          "label": "Careers",
+          "href": "#"
+        },
+        {
+          "label": "Finance & Governance",
+          "href": "#"
+        },
+        {
+          "label": "Our partner brands",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "title": "LEGAL",
+      "items": [
+        {
+          "label": "Terms and conditions",
+          "href": "#"
+        },
+        {
+          "label": "Privacy & cookies",
+          "href": "#"
+        },
+        {
+          "label": "Binding Corporate Rules",
+          "href": "#"
+        },
+        {
+          "label": "Transparency in coverage",
+          "href": "#"
+        },
+        {
+          "label": "Do Not Sell My Personal Information",
+          "href": "#"
+        },
+        {
+          "label": "Legal issues",
+          "href": "#"
+        },
+        {
+          "label": "Accessibility",
+          "href": "#"
+        },
+        {
+          "label": "User guides",
+          "href": "#"
+        },
+        {
+          "label": "Sleep n Dream Sitemap",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "Footer.text2": "CUSTOMER SERVICE",
+  "Footer.text3": "Monday to Saturday 10am – 9pm WIB",
+  "Footer.href4": "tel:+62215551234",
+  "Footer.href5": "mailto:hello@sleepndream.id",
+  "Footer.text6": "Email us",
+  "Footer.text7": "NEWSLETTER",
+  "Footer.text8": "Receive our newsletter and discover our stories, collections,",
+  "Footer.text9": "and surprises.",
+  "Footer.text10": "SUBSCRIBE",
+  "Footer.text11": "FOLLOW US",
+  "Footer.href12": "#",
+  "Footer.href13": "#",
+  "Footer.href14": "#",
+  "Footer.href15": "#",
+  "Footer.text16": "SHIP TO : INDONESIA ›",
+  "Footer.text17": "© Sleep n Dream",
+  "Footer.text18": ". All rights reserved.",
+  "AboutUs.SECTIONS": [
+    {
+      "id": "story",
+      "direction": "image-right",
+      "eyebrow": "About Sleep n Dream",
+      "heading": "The Legacy of\nLuxurious Sleep",
+      "body": [
+        "Founded in 1998, Sleep n Dream was born with a single commitment: to redefine the art of rest through precision craftsmanship, ergonomic excellence, and relentless innovation.",
+        "We believe that a great day begins with a restful night, and for over two decades, we have been dedicated to elevating your quality of life through ultimate sleep comfort."
+      ],
+      "stat": {
+        "number": "1998",
+        "label": "Est. Jakarta, Indonesia"
+      },
+      "image": "/banner/banner-one.jpg",
+      "imageAlt": "Sleep n Dream craftsmanship and sleep heritage"
+    },
+    {
+      "id": "innovation",
+      "direction": "image-left",
+      "eyebrow": "Our Innovation",
+      "heading": "Pioneering Since Day One.",
+      "body": [
+        "From the very beginning, Sleep n Dream has been a true pioneer in the mattress industry — the first to introduce the revolutionary 5-Zone Firmness system, meticulously engineered to deliver targeted ergonomic support where your body needs it most.",
+        "Continuing our legacy of firsts: Dr. Spine, the first dedicated orthopedic mattress for optimal spinal health; the first high-density firm latex mattress for back support; and the first brand to introduce integrated zipper covers for effortless care."
+      ],
+      "stat": {
+        "number": "28+",
+        "label": "Years of pioneering"
+      },
+      "image": "/banner/banner-two.jpg",
+      "imageAlt": "Sleep n Dream innovation and mattress craftsmanship"
+    }
+  ],
+  "AboutUs.src1": "/images/bordeaux-section-new.jpg",
+  "AboutUs.text2": "Sleep n Dream / About Us",
+  "AboutUs.text3": "Crafted for better rest,",
+  "AboutUs.text4": "made for",
+  "AboutUs.text5": "better living.",
+  "AboutUs.text6": "The Sleep n Dream Philosophy",
+  "AboutUs.text7": "Comfort designed for deeper rest.",
+  "AboutUs.text8": "Crafted with purpose.",
+  "AboutUs.text9": "Made to last.",
+  "AboutUs.href10": "/collection",
+  "AboutUs.text11": "Explore Collection",
+  "ProductCatalog.src1": "/images/bordeaux-section-new.jpg",
+  "ProductCatalog.text2": "Sleep n Dream / sleep collection",
+  "ProductCatalog.text3": "Find the comfort",
+  "ProductCatalog.text4": "that feels like",
+  "ProductCatalog.text5": "home.",
+  "ProductCatalog.text6": "Results",
+  "ProductCatalog.text7": "Sort by",
+  "ProductCatalog.text8": "Featured",
+  "ProductCatalog.text9": "Price: low to high",
+  "ProductCatalog.text10": "See more collections",
+  "ProductCatalog.text11": "Showing",
+  "ProductCatalog.text12": "of",
+  "ProductCatalog.text13": "Products",
+  "ProductDetail.ADD_ONS": [
+    {
+      "id": "comfort-layer",
+      "name": "Cashmere Comfort Layer",
+      "price": "Rp 1.750.000",
+      "image": "/images/cashmere.png",
+      "sizes": [
+        "Single",
+        "Queen",
+        "King"
+      ]
+    },
+    {
+      "id": "support-system",
+      "name": "Sleep n Dream Support System",
+      "price": "Rp 3.500.000",
+      "image": "/editorial/object-2.png",
+      "sizes": [
+        "Queen",
+        "King"
+      ]
+    }
+  ],
+  "ProductDetail.text1": "Product Overview",
+  "ProductDetail.text2": "Built with carefully selected materials and a composed support system,",
+  "ProductDetail.text3": "brings lasting comfort to the room without asking for attention. Every layer is considered to help the body settle naturally and keep the sleep surface calm through the night.",
+  "ProductDetail.text4": "Size Information",
+  "ProductDetail.text5": "Available in Single 100 × 200 cm, Super Single 120 × 200 cm, Queen 160 × 200 cm, and King 180 × 200 cm. Mattress height and final dimensions may vary slightly by collection.",
+  "ProductDetail.text6": "Care Instructions",
+  "ProductDetail.text7": "Rotate the mattress every three months, keep the surface dry, and use a breathable mattress protector. Clean gently with a soft vacuum attachment and avoid harsh liquid cleaners.",
+  "ProductDetail.text8": "Shipping & Returns",
+  "ProductDetail.text9": "Complimentary scheduled delivery is available in selected areas across Indonesia. Inspect your order upon arrival and contact our care team within seven days if an item arrives damaged.",
+  "ProductDetail.text10": "Colour presentation",
+  "ProductDetail.text11": "Size",
+  "ProductDetail.text12": "Configuration",
+  "ProductDetail.text15": "Add to cart",
+  "ProductDetail.text16": "Checkout now",
+  "ProductDetail.text17": "Paired for deeper rest",
+  "ProductDetail.text18": "Finish your sleep setting",
+  "ProductDetail.text19": "Discover tactile additions chosen to bring softness, support, and a composed finish to your room.",
+  "ProductDetail.text20": "Size",
+  "ProductDetail.text21": "Colour",
+  "ProductDetail.text22": "Ivory",
+  "ProductDetail.text23": "Sand",
+  "ProductDetail.text24": "Taupe",
+  "ProductDetail.text25": "Add selected items",
+  "ProductDetail.text26": "Continue exploring",
+  "ProductDetail.text27": "You might also like",
+  "Home.sections": [
+    {
+      "id": "Hero",
+      "visible": true
+    },
+    {
+      "id": "OurSignature",
+      "visible": true
+    },
+    {
+      "id": "StoryBanner",
+      "visible": true
+    },
+    {
+      "id": "FeaturedCategory",
+      "visible": true
+    },
+    {
+      "id": "MorningBanner",
+      "visible": true
+    },
+    {
+      "id": "AccessoriesCarousel",
+      "visible": true
+    },
+    {
+      "id": "StoreGallery",
+      "visible": true
+    },
+    {
+      "id": "NewsletterBenefits",
+      "visible": true
+    },
+    {
+      "id": "VideoSection",
+      "visible": true
+    },
+    {
+      "id": "Sleep n DreamSocials",
+      "visible": true
+    }
+  ],
+  "Home.banners": [
+    {
+      "image": "/photos/Misc%206.png",
+      "imageAlt": "Sleep n Dream bedroom collection",
+      "eyebrow": "THE ART OF REST",
+      "title": "Discover the Sleep n Dream Story",
+      "description": "",
+      "ctaLabel": "About Sleep n Dream",
+      "ctaHref": "/about"
+    },
+    {
+      "image": "/photos/Misc4.png",
+      "imageAlt": "Sleep n Dream bed in a warm bedroom",
+      "eyebrow": "Made For Better Mornings",
+      "title": "A Softer Start to Every Day",
+      "description": "",
+      "ctaLabel": "Explore Best Sellers",
+      "ctaHref": "#best-sellers"
+    }
+  ],
+  "Site.seo": {
+    "title": "Sleep n Dream — Luxury Springbed & Mattress",
+    "description": "28 years of better sleep"
+  },
+  "Navbar.categoryLabels": {
+    "MATTRESS": "MATTRESS",
+    "BED FRAME": "BED FRAME",
+    "ACCESSORIES": "ACCESSORIES",
+    "BEDROOM SET": "BEDROOM SET"
+  },
+  "Navbar.pageLabels": {
+    "HOME": "HOME",
+    "ABOUT US": "ABOUT US",
+    "COLLECTION": "COLLECTION"
+  },
+  "SocialFloat.links": {
+    "wa": "https://wa.me/6281234567890",
+    "ig": "https://www.instagram.com/sleepndream.bed/",
+    "em": "mailto:hello@sleepndream.id"
+  },
+  "ProductDetail.swatches": [
+    {
+      "name": "Ivory",
+      "color": "#ece4d7"
+    },
+    {
+      "name": "Sand",
+      "color": "#cdbda8"
+    },
+    {
+      "name": "Taupe",
+      "color": "#a98669"
+    },
+    {
+      "name": "Cocoa",
+      "color": "#73513d"
+    }
+  ],
+  "Hero.ctaHref": "/collection",
+  "Footer.phoneLabel": "+62 21 555 1234",
+  "Footer.newsletterHref": "mailto:hello@sleepndream.id?subject=Newsletter"
+}
