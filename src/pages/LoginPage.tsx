@@ -42,7 +42,7 @@ export function LoginPage() {
 
       <section className="login-center" aria-labelledby="login-title">
         <div className="login-card">
-          <div className="login-emblem" aria-hidden="true">D<span /></div>
+          <div className="login-emblem" aria-hidden="true">S<span /></div>
           <p className="login-eyebrow">WELCOME BACK</p>
           <h1 id="login-title">Selamat datang kembali.</h1>
           <p className="login-description">Semua kebutuhan bisnis Sleep n Dream,<br />dalam satu tempat.</p>
