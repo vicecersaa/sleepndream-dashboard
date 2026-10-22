@@ -12,7 +12,7 @@ const ThemeContext = createContext<ThemeContextValue | undefined>(undefined);
 export function ThemeProvider({ children }: { children: ReactNode }) {
   const [theme, setTheme] = useState<Theme>(() => {
     if (typeof window !== 'undefined') {
-      const stored = localStorage.getItem('sleepndream_white_brown_theme');
+      const stored = localStorage.getItem('sleepndream_theme');
       if (stored === 'dark' || stored === 'light') return stored;
     }
     return 'light';
@@ -22,8 +22,8 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
     const root = document.documentElement;
     if (theme === 'dark') root.classList.add('dark');
     else root.classList.remove('dark');
-    localStorage.removeItem('sleepndream_theme');
-    localStorage.setItem('sleepndream_white_brown_theme', theme);
+    localStorage.removeItem('sleepndream_white_brown_theme');
+    localStorage.setItem('sleepndream_theme', theme);
   }, [theme]);
 
   const toggleTheme = () => setTheme((prev) => (prev === 'light' ? 'dark' : 'light'));
